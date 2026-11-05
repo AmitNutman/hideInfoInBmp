@@ -3,7 +3,10 @@ from PIL import Image
 import stepic
 
 
+
 changed_img = {}
+
+
 
 while True:
     img_name = input("enter exit or image name: ")
