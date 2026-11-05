@@ -3,9 +3,7 @@ from PIL import Image
 import stepic
 
 
-
 changed_img = {}
-
 
 
 while True:
